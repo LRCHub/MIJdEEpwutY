@@ -1,0 +1,128 @@
+{
+  "version": 1,
+  "base_track": "Talk Tonight",
+  "base_artist": "Oasis",
+  "createdAt": "2025-12-22T07:51:00.424612Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Talk Tonight",
+      "artist": "Oasis",
+      "has_synced": false,
+      "path": "select/01_Talk_Tonight_Oasis.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Talk Tonight",
+      "artist": "Oasis",
+      "has_synced": true,
+      "path": "select/02_Talk_Tonight_Oasis.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Talk Tonight - Live at Bath Pavilion",
+      "artist": "Oasis",
+      "has_synced": true,
+      "path": "select/03_Talk_Tonight_-_Live_at_Bath_Pavilion_Oasis.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Talk Tonight [Live]",
+      "artist": "Oasis",
+      "has_synced": true,
+      "path": "select/04_Talk_Tonight_[Live]_Oasis.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Talk Tonight",
+      "artist": "Oasis",
+      "has_synced": true,
+      "path": "select/05_Talk_Tonight_Oasis.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Talk Tonight",
+      "artist": "Oasis",
+      "has_synced": false,
+      "path": "select/06_Talk_Tonight_Oasis.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Talk Tonight (Live At Bath Pavilion)",
+      "artist": "Oasis",
+      "has_synced": true,
+      "path": "select/07_Talk_Tonight_(Live_At_Bath_Pavilion)_Oasis.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Talk Tonight",
+      "artist": "Oasis",
+      "has_synced": true,
+      "path": "select/08_Talk_Tonight_Oasis.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Talk Tonight - Remastered",
+      "artist": "Oasis",
+      "has_synced": true,
+      "path": "select/09_Talk_Tonight_-_Remastered_Oasis.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Talk Tonight (Live at Bath Pavillion)",
+      "artist": "Oasis",
+      "has_synced": false,
+      "path": "select/10_Talk_Tonight_(Live_at_Bath_Pavillion)_Oasis.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Talk Tonight (Remastered)",
+      "artist": "Oasis",
+      "has_synced": true,
+      "path": "select/11_Talk_Tonight_(Remastered)_Oasis.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Talk Tonight (Remastered)",
+      "artist": "Oasis",
+      "has_synced": true,
+      "path": "select/12_Talk_Tonight_(Remastered)_Oasis.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Talk Tonight",
+      "artist": "Oasis",
+      "has_synced": true,
+      "path": "select/13_Talk_Tonight_Oasis.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Talk Tonight - Live For Teenage Cancer Trust",
+      "artist": "Noel Gallagher",
+      "has_synced": false,
+      "path": "select/14_Talk_Tonight_-_Live_For_Teenage_Cancer_Trust_Noel_Gallagher.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Talk Tonight",
+      "artist": "Oasis",
+      "has_synced": false,
+      "path": "select/pl_01_Talk_Tonight_Oasis.txt"
+    }
+  ]
+}
